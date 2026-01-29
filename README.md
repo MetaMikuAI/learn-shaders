@@ -1,0 +1,1 @@
+这是一个跟着 AI 学习 shader 的项目，笔记在 [Note.md](./Note.md) 中
